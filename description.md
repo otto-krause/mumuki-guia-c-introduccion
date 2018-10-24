@@ -1,0 +1,1 @@
+Diversos conceptos básicos para comprender la sintaxis de C y sus funciones.
