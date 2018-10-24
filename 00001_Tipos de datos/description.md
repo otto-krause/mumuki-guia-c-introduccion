@@ -31,4 +31,18 @@ Podemos llevar esta misma idea a la programación, existen diferentes **tipos de
 `char`: Sirve para almacenar un caracter<br>
 `bool`: Sirve para almacenar un valor de tipo bandera (`true` o `false`)<br>
 
+Ejemplo de uso:
+
+``` c
+int num = 3; //Numero entero
+char car = 'j'; //Caracter j
+float num2 = 14.23; //Numero con coma flotante
+```
+
+<br>
+Algunas consideraciones a tener en cuenta:
+
+* Para asignar un valor a una variable de tipo char se deben utilizar comillas
++ Todo lo que está despues de `//` son comentarios, es decir que no provocan ningun efecto durante la ejecucion del programa
++ Si no te acordás de que es un número entero, podes entrar [acá](https://es.wikipedia.org/wiki/N%C3%BAmero_entero)
 
