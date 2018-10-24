@@ -1,1 +1,1 @@
-Diversos conceptos básicos para comprender la sintaxis de C y sus funciones.
+Diversos conceptos básicos para comprender la sintaxis de C y sus funciones. Pensado para lenguajes fuertemente tipados.
