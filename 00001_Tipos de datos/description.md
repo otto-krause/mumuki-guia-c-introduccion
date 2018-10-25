@@ -42,7 +42,7 @@ float num2 = 14.23; //Número con coma flotante
 <br>
 Algunas consideraciones a tener en cuenta:
 
-* Para asignar un valor a una variable de tipo char se deben utilizar comillas
-+ Todo lo que está después de `//` son comentarios, es decir que no provocan ningún efecto durante la ejecución del programa
+* Para asignar un valor a una variable de tipo char se deben utilizar comillas simples.
++ Todo lo que está después de `//` son comentarios, es decir que no provocan ningún efecto durante la ejecución del programa.
 + Si no te acordás de que es un número entero, podés entrar [acá](https://es.wikipedia.org/wiki/N%C3%BAmero_entero)
 
