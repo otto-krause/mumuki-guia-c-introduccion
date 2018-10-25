@@ -1,17 +1,16 @@
 Ahora vamos analizar cómo está compuesto nuestro código.
-``` C
+
+``` c
 /* Programa: Hola mundo */
 
 #include <conio.h>
 #include <stdio.h>
 
-int main()
+void main()
 {
-    printf( "Hola mundo." );
+    printf( "Hola mundo.\n" );
 
-    getch(); /* Pausa */
-
-    return 0;
+    getch(); // Pausa 
 }
 ```
 
