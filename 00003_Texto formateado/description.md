@@ -14,7 +14,7 @@ void main()
 }
 ```
 
-> En el código anterior vemos dos maneras de comentar, la primera en la línea superior, delante y detrás de "Programa: Hola mundo" y se utilizan para comentar entre ambos caracteres (/* */).<br>La segunda después de la sentencia getch vemos una doble barra (//) que también se utiliza para comentar pero sólo hasta el final de la línea.
+> En el código anterior vemos dos maneras de comentar, la primera en la línea superior, delante y detrás de "Programa: Hola mundo" y se utilizan para comentar entre ambos caracteres (/* */).<br>La segunda, después de la sentencia getch, utiliza una doble barra (//) que también sirve para comentar, pero sólo hasta el final de la línea.
 
 Dentro del printf, también vemos un par de caracteres que parecen un poco raros: `\n`.<br> Estos 2 caracteres sirven para indicarle al **compilador** que hay que hacer un salto de línea cuando muestre el texto por pantalla.<br>
 
