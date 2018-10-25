@@ -1,5 +1,5 @@
-## **Qué es un programa?** 
-Esta es la primer pregunta que deberíamos hacernos al empezar la materia.
+## **¿Qué es un programa?** 
+Esta es la primera pregunta que deberíamos hacernos al empezar la materia.
 <br>Vamos a darte una definición un poco informal:<br>
 > Un **programa** es una serie de pasos ordenados, que sirven para resolver un problema.
 
