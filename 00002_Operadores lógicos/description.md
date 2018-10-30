@@ -1,4 +1,4 @@
-Te acordas de que es un operador? Si no te acordas, te refrescamos la memoria.<br>
+¿Te acordás que es un operador? Si no te acordás, te refrescamos la memoria.<br>
 Un operador es el símbolo que se usa para representar a una operación, para que lo entiendas mejor:
 > El operador **( + )** representa a la suma<br>
 El operador **( - )** representa a la resta<br>
@@ -10,12 +10,12 @@ Ahora sí, un operador lógico es un operador que sirve para evaluar una condici
 
 Si yo digo que 4 es mayor a 3 => el resultado de esa condicion es **verdadero**<br>
 
-A la condición _es mayor a_ le corresponde un operador lógico! Y la misma se escribiria de la siguiente forma:<br>
+A la condición _es mayor a_ le corresponde un operador lógico! Y la misma se escribiría de la siguiente forma:<br>
 
 ### 4 **>** 3
 <br>
 
-El resultado de esta condicion sería `true`.
+El resultado de esta condición sería `true`.
 <br>
 
 El resto de los operadores lógicos que conocemos son:<br>
