@@ -1,4 +1,4 @@
-Ahora vamos analizar cómo está compuesto nuestro código.
+Ahora vamos a analizar cómo está compuesto nuestro código.
 
 ``` c
 /* Programa: Hola mundo */
